@@ -1,1 +1,1 @@
-echo 'This is where the build will be ' >> build.log
+echo 'This is where $BUILD_NUMBER build will be ' >> build.log
